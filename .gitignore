@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# Env & tooling
+.env
+.env.*
+!.env.example
+.vercel/
+.DS_Store
